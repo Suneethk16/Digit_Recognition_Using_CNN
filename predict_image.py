@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 model = tf.keras.models.load_model('CNN_model.h5')
 
-img_path = 'sample_digit.png'  #replace with your image
+img_path = '9.png'  #replace with your image
 img = image.load_img(img_path, color_mode='grayscale', target_size=(28, 28))
 img_array = image.img_to_array(img) / 255.0
 img_array = np.expand_dims(img_array, axis=0)
