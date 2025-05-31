@@ -1,6 +1,6 @@
 import tensorflow as tf 
 import numpy as np
-from tensorflow.keras.preprocessing import image #type: ignore
+from keras.preprocessing import image 
 import matplotlib.pyplot as plt
 
 model = tf.keras.models.load_model('CNN_model.h5')
