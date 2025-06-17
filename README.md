@@ -1,5 +1,5 @@
 # Digit_Recognition_Using_CNN
-* This project uses a simple Convolutional Neural Network (CNN) implemented using TensorFlow/Keras to classify handwritten digits from the git add MNIst Dataset.
+* This project uses a simple Convolutional Neural Network (CNN) implemented using TensorFlow/Keras to classify handwritten digits from the MNIst Dataset.
 * The model is trained and saved, and a separate script is provided to make predictions on custom images.
 
 digit_recognition/
