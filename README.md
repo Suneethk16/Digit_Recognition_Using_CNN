@@ -4,11 +4,11 @@
 
 digit_recognition/
 │
-├── Train_model.py # code to train and save the CNN model
-├── Predict_Digit.py # code to load the model and predict digits from images
-├── CNN_model.h5 # Saved model (generated after training)
-├── 9.png # Sample input image (28x28 grayscale digit image)
-├── README.md # Project documentation
+├── Train_Model.py # code to train and save the CNN model.
+├── Predict_Digit.py # code to load the model and predict digits from images.
+├── CNN_model.h5 # Saved model (generated after training).
+├── 9.png # Sample input image (28x28 grayscale digit image).
+├── README.md # Project documentation.
 
 # Requirements
 
