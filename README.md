@@ -16,3 +16,6 @@ Predict_Digit.py - Run this code to load the model and predict digits from the i
 Install the required Python libraries using pip:
 
 'pip3 install tensorflow keras matplotlib numpy'
+
+# creator
+Suneeth Kokala - 4252195
