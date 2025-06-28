@@ -17,5 +17,5 @@ Install the required Python libraries using pip:
 
 'pip3 install tensorflow keras matplotlib numpy'
 
-# creator
+# Creator
 Suneeth Kokala - 4252195
